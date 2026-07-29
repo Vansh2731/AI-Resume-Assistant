@@ -233,7 +233,7 @@ GET /ats
 
 # Supervisor
 
-**Guide Name:** ______________________
+**Guide Name:** Alind
 
 ---
 
@@ -249,7 +249,7 @@ Computer Science Engineering
 
 **Academic Year**
 
-2025–2026
+2024
 
 ---
 
