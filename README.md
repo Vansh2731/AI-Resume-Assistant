@@ -171,21 +171,6 @@ http://localhost:5000
 7. Practice interview questions.
 8. View Profile.
 
----
-
-# Screenshots
-
-Screenshots can be added in the `screenshots` folder.
-
-Suggested screenshots:
-
-- Home Page
-- Login Page
-- Dashboard
-- ATS Report
-- Resume Upload
-- Interview Page
-- Profile Page
 
 ---
 
@@ -218,40 +203,7 @@ POST /upload
 GET /ats
 ```
 
----
 
-# Team Members
-
-| Name | Role |
-|------|------|
-| Vansh Verma | Frontend Development |
-| Vansh Verma | Backend Development |
-| Vansh Verma | UI/UX Design |
-| Vansh Verma | Testing & Documentation |
-
----
-
-# Supervisor
-
-**Guide Name:** Alind
-
----
-
-# Academic Details
-
-**Project Title**
-
-AI Resume & Interview Assistant
-
-**Department**
-
-Computer Science Engineering
-
-**Academic Year**
-
-2024
-
----
 
 # Repository
 
